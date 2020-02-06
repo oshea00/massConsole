@@ -4,7 +4,7 @@ To run this example, you need a rabbitmq server.
 
 ## Install rabbitmq as docker container
 
-1. Docker install (if needed)[https://www.docker.com/products/docker-desktop]
+1. Docker install [if needed](https://www.docker.com/products/docker-desktop)
 2. Install rabbitmq
 ```
 docker pull rabbitmq:3-management
