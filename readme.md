@@ -1,4 +1,4 @@
-# MassTransit Conole example with RabbitMQ transport
+# MassTransit Console example with RabbitMQ transport
 
 To run this example, you need a rabbitmq server.
 
